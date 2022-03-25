@@ -1,9 +1,9 @@
 # Abdulaziz Soliyev
 
 ## Contacts:
-* E-mail: abdulazizsoliyev60@gmail.com
-* Telegram: https://t.me/Abdulaziz_S_R
-* GitHub: https://github.com/new-developer-dot
+* E-mail: [abdulazizsoliyev60@gmail.com](mailto:abdulazizsoliyev60@gmail.com)
+* Telegram: [https://t.me/Abdulaziz_S_R](https://t.me/Abdulaziz_S_R)
+* GitHub: [https://github.com/new-developer-dot](https://github.com/new-developer-dot)
 * Discord: Abdulaziz#5746
 
 ## About me
