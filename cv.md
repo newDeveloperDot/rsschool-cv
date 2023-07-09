@@ -1,9 +1,9 @@
 # Abdulaziz Soliyev
 
 ## Contacts:
-* E-mail: [abdulazizsoliyev60@gmail.com](mailto:abdulazizsoliyev60@gmail.com)
-* Telegram: [https://t.me/Abdulaziz_S_R](https://t.me/Abdulaziz_S_R)
-* GitHub: [https://github.com/new-developer-dot](https://github.com/new-developer-dot)
+* E-mail: abdulazizsoliyev60@gmail.com
+* Telegram: https://t.me/Abdulaziz_S_R
+* GitHub: https://github.com/newDeveloperDot
 * Discord: Abdulaziz#5746
 
 ## About me
@@ -35,3 +35,4 @@ ___Tashkent University of Information Technologies named after Muhammad al-Khwar
 
 ## Language:
 - English level - A1
+- Russian level - A1
